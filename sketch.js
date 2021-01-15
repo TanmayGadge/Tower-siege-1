@@ -72,7 +72,7 @@ function setup() {
     chain = new SlingShot(polygon.body, { x: 100, y: 400 });
 
     
-
+    Engine.run(engine);
 }
 
 function draw() {
